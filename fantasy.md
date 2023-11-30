@@ -1,7 +1,7 @@
 
 
 <p align=center>
-<img style="border-radius:50px;" src="https://github.com/fantasyxrd/fantasyxrd/edit/main/fantasy.png" alt="">
+<img style="border-radius:50px;" src="https://github.com/fantasyxrd/areslesnar/edit/main/fantasy.png" alt="">
 </p>
 
 <a href="https://github.com/fantasyxrd/github-widgetbox">
